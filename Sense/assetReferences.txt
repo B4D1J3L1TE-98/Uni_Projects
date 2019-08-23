@@ -1,0 +1,26 @@
+All coding used in the project was developed either from the Practical 
+videos or from the examples in the Unity documentation
+
+All visual assets in the game were made by Sae
+
+
+All sounds used in the game were creative commons sounds, found at
+the following URLs:
+
+axe swinging/clanging
+http://soundbible.com/1980-Swords-Collide.html
+
+player death
+http://soundbible.com/925-Bone-Crushing.html
+
+pressure plate
+https://freesound.org/people/Hefler/sounds/420974/
+
+gate open/close -  approximately from 0:05 to 0:06
+https://freesound.org/people/Omnisis/sounds/336888/
+
+buzzing noise in fake walls and floor
+http://soundbible.com/1495-Basketball-Buzzer.html
+
+rolling ball
+http://soundbible.com/905-Cave-In-Sound.html
